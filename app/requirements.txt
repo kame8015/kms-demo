@@ -1,0 +1,7 @@
+cryptography
+boto3
+moto
+pytest
+mypy
+black
+flake8
